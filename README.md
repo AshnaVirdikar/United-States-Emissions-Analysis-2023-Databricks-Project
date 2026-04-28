@@ -10,6 +10,8 @@ This project analyzes United States emissions data (2023) sourced from the EPA, 
 - AI-powered querying using Databricks Genie
 
 The goal was to simulate a real-world analytics workflow, transforming raw environmental data into actionable business insights.
+<img width="1188" height="682" alt="image" src="https://github.com/user-attachments/assets/eb30339f-1910-4f52-bb4f-f3fc553d99d7" />
+
 
 # 🛠️ Tech Stack
 - Databricks (Lakehouse Platform)
