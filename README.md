@@ -60,9 +60,9 @@ Top contributing states
 
 📊 Dashboard Highlights
 
-The dashboard provides a multi-dimensional view of emissions across the U.S.:
+The dashboard provides a multi-dimensional view of emissions across the U.S. in 2023.
 
-🔹 Key KPIs
+🔹 Key KPIs (North Star KPIs)
 Total US Emissions: 562.46M
 Avg Emissions per Person: 1.77
 Total Population: 318.6M
@@ -79,8 +79,7 @@ Identifies high-emission regions for targeted interventions
 
 🤖 Databricks Genie (AI Layer)
 Enabled natural language querying on the dataset
-Example:
-“Which states contribute most to emissions?”
+Example: “Which states contribute most to emissions?”
 “What is the trend between population and emissions per capita?”
 
 This demonstrates how business users can extract insights without writing SQL.
